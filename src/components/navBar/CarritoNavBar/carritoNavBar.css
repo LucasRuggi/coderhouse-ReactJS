@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.BtnCarrito{
+    background-color: transparent;
+    border: 0px;
+}
+
+.btnImg{
+    height: auto;
+    width: 35px;
+}
+
+.cantidadCarrito{
+    display: inline;
+    text-decoration: none;
+    color: white;
+}

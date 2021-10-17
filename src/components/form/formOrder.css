@@ -1,0 +1,80 @@
+.containerOrder{
+    width: 70%;
+}
+
+.containerForm{
+    width: 50%;
+}
+
+.orderContainer {
+    border: 1px solid #3d3f41;
+    border-radius: 30px;
+}
+
+.cartInfo {
+    font-size: 1rem;
+    color: #3d3f41;
+}
+
+.orderFinal {
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+h2 {
+    font-weight: 700;
+    color: #3d3f41;
+}
+
+.form-group input {
+    background-color: rgba(255, 255, 255, 0.808);
+}
+
+.botonEnviarOrden {
+    background-color: rgb(134, 77, 77);
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 30px;
+    font-size: 1rem;
+    margin: 2em 0;
+    padding: .5em 2rem;
+    -webkit-box-shadow: 0px 11px 10px -7px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 11px 10px -7px rgba(0, 0, 0, 0.25);
+}
+
+
+.botonEnviarOrdenComplete {
+    background-color: #626668c9;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 30px;
+    font-size: 1rem;
+    margin: 2em 0;
+    padding: .5em 2rem;
+    -webkit-box-shadow: 0px 11px 10px -7px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 11px 10px -7px rgba(0, 0, 0, 0.25);
+}
+
+.botonEnviarOrdenComplete:hover {
+    background-color: rgb(78, 196, 78);
+    color: black;
+}
+
+.orderGenerated {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.orderGenerated p {
+    margin-top: 2rem;
+    font-size: 1.4rem;
+    color: #3d3f41
+}
+
+.orderGenerated h6 {
+    margin-top: .2rem;
+    font-size: 1rem;
+    color: #3d3f41
+}
