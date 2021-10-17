@@ -2,6 +2,8 @@
 
 ## Descripción
 
+https://genialosoo.netlify.app/
+
 `Proyecto Final` para el curso de ReactJS.
 La aplicación conecta con `Firebase`.
 Permite seleccionar ciertos productos, navegar a sus detalles, agregarlos al carrito, poder acceder a él, simular la compra de los productos.
